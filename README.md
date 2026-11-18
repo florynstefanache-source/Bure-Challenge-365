@@ -1,6 +1,6 @@
 # Bure Challenge 365
 
-![Bure Challenge 365](cover-365.png)
+![Bure Challenge 365](https://github.com/florynstefanache-source/Bure-Challenge-365/releases/download/v0.2.78/cover-365.png)
 
 Un reto de supervivencia nómada para **The Long Dark · Interloper**. La versión **0.2.78** incluye **cinco meses jugables, días 1–150**, con 153 objetivos contando los hitos.
 
@@ -44,23 +44,10 @@ The developer console and cheat commands are prohibited. On the third attempt, t
 
 ## Capturas / Screenshots
 
-### Libreta y calor / Notebook and warmth
+[Descarga las 12 capturas y la portada / Download all 12 screenshots and the cover](https://github.com/florynstefanache-source/Bure-Challenge-365/releases/download/v0.2.78/Bure-Challenge-365-Gallery.zip)
 
-![Menú del lobo / Wolf menu](wolf-menu.png)
-![Misiones / Missions](missions.png)
-![Lobo en espera / Wolf on standby](wolf-standby.png)
-![Calor activo / Active warmth](wolf-warmth.png)
-
-### Dron, paracaídas y baliza / Drone, parachute and beacon
-
-![Llegada / Approach](drone-approach.png)
-![Aterrizaje / Landing](drone-landing.png)
-![Dron Bure / Bure drone](drone-closeup.png)
-![Pago / Payment](trade-payment.png)
-![Despegue / Takeoff](drone-takeoff.png)
-![Descenso / Parachute drop](parachute-drop.png)
-![Caja en tierra / Landed crate](crate.png)
-![Baliza ámbar / Amber beacon](crate-beacon.png)
+- **Libreta y calor / Notebook and warmth** · menú del lobo, misiones y bonus activo o en espera / wolf menu, missions, and active or standby warmth bonus.
+- **Dron, paracaídas y baliza / Drone, parachute and beacon** · llegada, aterrizaje, pago, despegue y recogida de la caja / approach, landing, payment, takeoff and crate collection.
 
 ## Próximas actualizaciones / Future updates
 
