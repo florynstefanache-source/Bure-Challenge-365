@@ -35,6 +35,10 @@ To play the Bure content in earlier months, install the addons below. The challe
 | Burebista Craftable Kettle | Recompensas y trueques de tetera / Kettle rewards and trades | [Releases](https://github.com/florynstefanache-source/BurebistaCraftableKettle/releases/latest) |
 | Burebista Animal Trophies | Trueques de trofeos / Trophy trades | [Releases](https://github.com/florynstefanache-source/BurebistaAnimalTrophies/releases/latest) |
 
+ModComponent 7 incluye GearSpawner, LocalizationUtilities y CraftingRevisions y requiere **ModSettings**. [Descargar ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases).
+
+ModComponent 7 bundles GearSpawner, LocalizationUtilities and CraftingRevisions and requires **ModSettings**. [Download ModSettings](https://github.com/DigitalzombieTLD/ModSettings/releases).
+
 El paquete del tipi utiliza **ModComponent**, además de MelonLoader y ModData. [Descargar ModComponent](https://github.com/dommrogers/ModComponent/releases). Conserva los archivos de recursos y paquetes incluidos en cada descarga, siguiendo su LEEME.
 
 The tipi package uses **ModComponent** alongside MelonLoader and ModData. [Download ModComponent](https://github.com/dommrogers/ModComponent/releases). Install each package's included resources according to its README.
