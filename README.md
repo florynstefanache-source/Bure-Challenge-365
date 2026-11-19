@@ -2,7 +2,46 @@
 
 ![Bure Challenge 365](https://github.com/florynstefanache-source/Bure-Challenge-365/releases/download/v0.2.78/cover-365.png)
 
-Un reto de supervivencia nómada para **The Long Dark · Interloper**. La versión **0.2.78** incluye **cinco meses jugables, días 1–150**, con 153 objetivos contando los hitos.
+Un reto de supervivencia nómada para **The Long Dark · Interloper**. La versión **0.2.79** incluye **cinco meses jugables, días 1–150**, con 153 objetivos contando los hitos.
+
+## Corrección 0.2.79 / Fix 0.2.79
+
+🇪🇸 Elegir un trueque sin tener el material ya muestra un aviso y conserva libre el pedido del dron. Si una partida ya tiene un trueque pendiente de pago, abre la libreta y pulsa **CANCELAR TRUEQUE · VOLVER A LAS RECOMPENSAS**. Después puedes elegir otra oferta o reclamar una recompensa de misión. La cancelación se ofrece mientras el trueque está pendiente de pago. Los pedidos pagados continúan hasta su entrega. Funciona también con los pedidos antiguos guardados.
+
+🇬🇧 Selecting a trade without its required material now shows a message and leaves the drone order slot free. If an existing save has an unpaid trade, open the notebook and select **CANCEL TRADE · RETURN TO REWARDS**. You can then choose another offer or claim a mission reward. Cancellation is available while payment is pending. Paid orders continue through delivery. Existing saved unpaid orders are supported.
+
+Compilación sin errores y 104 comprobaciones superadas. Pendiente de verificación dentro del juego. / Build succeeded and 104 checks passed. In-game verification is still pending.
+
+[Descargar DLL 0.2.79 / Download DLL 0.2.79](https://github.com/florynstefanache-source/Bure-Challenge-365/releases/tag/v0.2.79)
+
+## Mods necesarios y descargas / Required mods and downloads
+
+| Mod | Para qué se necesita / Purpose | Descarga / Download |
+| --- | --- | --- |
+| MelonLoader | Cargador requerido / Required loader | [Releases](https://github.com/LavaGang/MelonLoader/releases) |
+| ModData | Guarda el progreso del reto / Saves challenge progress | [Releases](https://github.com/dommrogers/ModData/releases) |
+| Burebista Beaver | Necesario para completar el mes 5, trampas y ropa de castor / Required to finish month 5, beaver traps and clothing | [Releases](https://github.com/florynstefanache-source/BurebistaBeaver/releases/latest) |
+
+Para jugar con el contenido Bure de los meses anteriores, instala también los complementos siguientes. El reto ofrece objetivos o recompensas alternativos cuando detecta que ciertos complementos no están instalados. Cada paquete puede tener sus propias dependencias, indicadas en su página.
+
+To play the Bure content in earlier months, install the addons below. The challenge provides alternative goals or rewards when certain addons are absent. Follow each package's own dependency and installation instructions.
+
+| Complemento / Addon | Contenido / Content | Descarga / Download |
+| --- | --- | --- |
+| Burebista Traditional Tipi, Hide Bed, Curing Rack y Workbench | Tipi y sus tres complementos, meses 2–4 / Tipi and its three addons, months 2–4 | [Paquete completo / Full package](https://github.com/florynstefanache-source/BurebistaTraditionalTipi/releases/latest) |
+| Burebista Trapper Dog | Perro compañero / Companion dog | [Releases](https://github.com/florynstefanache-source/BurebistaTrapperDog/releases/latest) |
+| Burebista Trapper Sled | Trineo de transporte / Cargo sled | [Releases](https://github.com/florynstefanache-source/BurebistaTrapperSled/releases/latest) |
+| Burebista Candle Recipes | Recompensas y trueques de velas / Candle rewards and trades | [Releases](https://github.com/florynstefanache-source/BurebistaCandleRecipes/releases/latest) |
+| Burebista Craftable Kettle | Recompensas y trueques de tetera / Kettle rewards and trades | [Releases](https://github.com/florynstefanache-source/BurebistaCraftableKettle/releases/latest) |
+| Burebista Animal Trophies | Trueques de trofeos / Trophy trades | [Releases](https://github.com/florynstefanache-source/BurebistaAnimalTrophies/releases/latest) |
+
+El paquete del tipi utiliza **ModComponent**, además de MelonLoader y ModData. [Descargar ModComponent](https://github.com/dommrogers/ModComponent/releases). Conserva los archivos de recursos y paquetes incluidos en cada descarga, siguiendo su LEEME.
+
+The tipi package uses **ModComponent** alongside MelonLoader and ModData. [Download ModComponent](https://github.com/dommrogers/ModComponent/releases). Install each package's included resources according to its README.
+
+Con el juego cerrado, sustituye la DLL antigua por **BurebistaBureChallenge.dll 0.2.79** en `TheLongDark/Mods`. Guarda las copias antiguas fuera de `Mods`. Si tienes Burebista Starting Equipment, déjalo en **OFF**. Selecciona **Bure Challenge / Interloper**.
+
+Close the game and replace the previous DLL with **BurebistaBureChallenge.dll 0.2.79** in `TheLongDark/Mods`. Keep backups outside `Mods`. If Burebista Starting Equipment is installed, set it to **OFF**. Select **Bure Challenge / Interloper**.
 
 ## Español
 
@@ -24,7 +63,7 @@ La consola de desarrollador y los comandos de trucos están prohibidos. Al terce
 
 ## English
 
-A nomadic survival challenge for **The Long Dark · Interloper**. Version **0.2.78** includes **five playable months, days 1–150**, with 153 objectives including milestones.
+A nomadic survival challenge for **The Long Dark · Interloper**. Version **0.2.79** includes **five playable months, days 1–150**, with 153 objectives including milestones.
 
 | Month | What you’ll do |
 | --- | --- |
