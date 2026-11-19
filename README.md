@@ -2,7 +2,25 @@
 
 ![Bure Challenge 365](https://github.com/florynstefanache-source/Bure-Challenge-365/releases/download/v0.2.78/cover-365.png)
 
-Un reto de supervivencia nómada para **The Long Dark · Interloper**. La versión **0.2.79** incluye **cinco meses jugables, días 1–150**, con 153 objetivos contando los hitos.
+Un reto de supervivencia nómada para **The Long Dark · Interloper**. La versión **0.2.80** incluye **cinco meses jugables, días 1–150**, con 153 objetivos contando los hitos.
+
+## Correcciones 0.2.80 / Fixes 0.2.80
+
+🇪🇸 **Misión 41 y continuación.** La cartografía con carbón ahora se reconoce aunque el juego no añada un punto nuevo al mapa. Al cargar una partida y salir al exterior, se revisan las marcas de cartografía guardadas para recuperar el objetivo pendiente. El guardado de prueba confirma que las misiones 41–44 ya se completaron tras la actualización. Las misiones posteriores siguen su orden y sus requisitos.
+
+También se reconocen el cuchillo y el hacha normales como herramientas de viaje y las variantes A/B de madera recuperada como combustible. La libreta muestra más información de las misiones 41–44 y avisa cuando falta completar la misión anterior. Incluye la corrección 0.2.79 para cancelar trueques del dron pendientes de pago.
+
+**Instalación:** cierra el juego y sustituye la DLL anterior en `TheLongDark/Mods`. Deja una sola copia y conserva los datos de ModData. En partidas atascadas en la misión 41, carga el guardado y sal al exterior.
+
+🇬🇧 **Mission 41 and progression.** Charcoal surveying now counts even when the game does not add a new map point. Loading a save and going outdoors checks saved survey marks to recover the pending objective. The checked save confirms that missions 41–44 completed after the update. Later missions still follow their sequence and requirements.
+
+Normal knives and hatchets now qualify as travel tools, and reclaimed wood variants A/B count as fuel. The notebook shows more progress details for missions 41–44 and indicates when a previous mission must be completed. Includes the 0.2.79 fix for cancelling unpaid drone trades.
+
+**Installation:** close the game and replace the previous DLL in `TheLongDark/Mods`. Keep one copy and preserve ModData saves. For a save stuck at mission 41, load it and go outdoors.
+
+Compilación sin errores y 114 comprobaciones superadas. / Build succeeded and 114 checks passed.
+
+[DLL 0.2.80 / Download](https://github.com/florynstefanache-source/Bure-Challenge-365/releases/tag/v0.2.80)
 
 ## Corrección 0.2.79 / Fix 0.2.79
 
@@ -67,7 +85,7 @@ La consola de desarrollador y los comandos de trucos están prohibidos. Al terce
 
 ## English
 
-A nomadic survival challenge for **The Long Dark · Interloper**. Version **0.2.79** includes **five playable months, days 1–150**, with 153 objectives including milestones.
+A nomadic survival challenge for **The Long Dark · Interloper**. Version **0.2.80** includes **five playable months, days 1–150**, with 153 objectives including milestones.
 
 | Month | What you’ll do |
 | --- | --- |
